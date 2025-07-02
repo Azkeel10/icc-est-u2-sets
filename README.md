@@ -59,4 +59,4 @@ java App
 ```
 ## 🧑‍💻 Ejemplo de Entrada
 
-![alt text](image-1.png)
+![alt text](image.png)
