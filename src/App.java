@@ -1,15 +1,24 @@
+import Controllers.ContactoController;
+
 public class App {
     public static void main(String[] args) throws Exception {
 //-----------------------------------------------------------------------------
         System.out.println("----------Programa funcionando----------");
 //-----------------------------------------------------------------------------
-        Sets sets = new Sets();
 
-        runHashSet(sets);
-        runLinkedHashSet(sets);
-        runTreeSet(sets);
-        runTreeSetConComparador(sets);
-        runTreeSetConComparadorInverso(sets);
+//-----------------------------------------------------------------------------
+        /* 
+         * Sets sets = new Sets();
+
+         * runHashSet(sets);
+         * runLinkedHashSet(sets);
+         * runTreeSet(sets);
+         * runTreeSetConComparador(sets);
+         * runTreeSetConComparadorInverso(sets);
+         */
+
+        ContactoController cC = new ContactoController();
+
     }
 //-----------------------------------------------------------------------------
     public static void runHashSet(Sets sets) {

@@ -57,6 +57,10 @@ Para compilar y ejecutar el programa, usa los siguientes comandos:
 javac App.java Sets.java
 java App
 ```
-## 🧑‍💻 Ejemplo de Entrada
+## 🧑‍💻 Ejemplo de Entrada 1
 
 ![alt text](image.png)
+
+## 🧑‍💻 Ejemplo de Entrada 2
+
+![alt text](image-2.png)
