@@ -64,3 +64,7 @@ java App
 ## 🧑‍💻 Ejemplo de Entrada 2
 
 ![alt text](image-2.png)
+
+## 🧑‍💻 Ejemplo de Entrada 3
+
+![alt text](image-3.png)

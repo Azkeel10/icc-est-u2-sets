@@ -1,4 +1,5 @@
 import Controllers.ContactoController;
+import Controllers.Ejercicios;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -17,7 +18,9 @@ public class App {
          * runTreeSetConComparadorInverso(sets);
          */
 
-        ContactoController cC = new ContactoController();
+        //ContactoController cC = new ContactoController();
+
+        Ejercicios e = new Ejercicios();
 
     }
 //-----------------------------------------------------------------------------
